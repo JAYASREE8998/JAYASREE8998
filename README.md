@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-# Data Scientist
+## 
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
