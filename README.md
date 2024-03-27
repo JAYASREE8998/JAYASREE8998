@@ -34,5 +34,5 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 
 - 📫 How to reach me **me.jayasreec@gmail.com**
-
+![Background Image](assets/img/background.jpg)
 
