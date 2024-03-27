@@ -1,6 +1,6 @@
 title:
   text: Jayasree C
-  logo: /assets/img/myself.png
+  logo: assets\img\myself.png
 description: Data Scientist
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
