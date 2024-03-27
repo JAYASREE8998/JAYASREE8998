@@ -8,7 +8,7 @@
 
 - ## Education							       		
 - M.Sc., Big Data Analytics	| St.Joseph's University (_April 2022_)	 			        		
-- B.Sc., Mathematics | Mount Carmel College Autonomous (_May 2020_)
+- B.Sc., Mathematics |    Mount Carmel College Autonomous (_May 2020_)
 
 ## Work Experience
 **Data Scientist @ TVS Motor Company (_October 2022 - Present_)**
